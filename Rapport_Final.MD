@@ -1,9 +1,9 @@
 # FitSize: Rapport Final
 
-**L'équipe**
-*Clément NGUYEN* (chef de projet)
-*Florian CHAPPAZ*
-*Valentin DE OLIVEIRA*
+**L'équipe**\
+*Clément NGUYEN* (chef de projet)\
+*Florian CHAPPAZ*\
+*Valentin DE OLIVEIRA*\
 *Sami IFAKIREN*
 
 
@@ -26,7 +26,7 @@
 5. [Gestion de projet](#gestion)\
     5.1. [Méthode](#methode)\
     5.2. [Planning](#planning)\
-    5.3. [Rôles des membres](#roles)\
+    5.3. [Rôles des membres](#roles)
 
 6. [Outils](#outils)\
     6.1. [Collaboration](#collaboration)\
