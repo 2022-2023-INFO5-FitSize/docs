@@ -201,9 +201,9 @@ Le projet se décompose en 3 sprints :
 
 Les affectations se sont donc faites comme suit :
 
-**NGUYEN Clément** : Front-End, partie catalogue et intégration back
-**IFAKIREN Sami** : Front-End, partie appareil photo, images et communication IA
-**DE OLIVEIRA Valentin** : Back-End, API Catalogue + tests
+**NGUYEN Clément** : Front-End, partie catalogue et intégration back\
+**IFAKIREN Sami** : Front-End, partie appareil photo, images et communication IA\
+**DE OLIVEIRA Valentin** : Back-End, API Catalogue + tests\
 **CHAPPAZ Florian** : Back-End (IA), API IA + Documentation
 
 
